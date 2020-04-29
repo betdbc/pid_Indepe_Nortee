@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>opcion</title>
+    <link rel="stylesheet" href="opcion.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya|Armata" rel="stylesheet">
+  </head>
+  <body>
+    <header id="header">
+      <h1>Mi Header</h1>
+    </header>
+    <nav id="nav">
+      <h1 >Mi Nav</h1>
+    </nav>
+    <section id="section">
+      <h1>Mi Seccion</h1>
+      <article class="article">
+      <h2>Articulo 4 Betsi Castillo</h2>
+    </article>
+    
+    </section>
+    <footer id="footer">
+      <h1>Mi Footer</h1>
+    </footer>
+  </body>
+</html>
